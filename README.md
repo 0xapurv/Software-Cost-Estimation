@@ -5,4 +5,4 @@
 - Evaluation critera: MMRE, MdMRE, Pred(.25)
 ## Technical report
 ## Estimation web
-- Deployed on heroku: https://cocomo-app.herokuapp.com/
+
